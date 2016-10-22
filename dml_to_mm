@@ -1,2 +1,5 @@
 message Person
-{
+{ 
+    int32 sampleid index=12;
+    int32 hehiglhdio index =1;
+    
